@@ -44,7 +44,8 @@ You can click the Preview link to take a look at your changes.
             { code: '001', name: 'علی', score: 95 },
             { code: '002', name: 'رضا', score: 88 },
             { code: '003', name: 'سارا', score: 92 }
-        ];
+       { code: '005', name: 'hldv', score: 88 },
+       { code: '006', name: 'امیر', score: 88 }, ];
 
         // تابع جستجوی کاربر
         function searchUser() {
